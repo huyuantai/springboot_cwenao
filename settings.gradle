@@ -1,4 +1,4 @@
-rootProject.name = 'bootcwenao'
+rootProject.name = 'bootcwenao1111'
 include 'common-bootcwenao'
 include 'apigateway-bootcwenao'
 include 'discovery-bootcwenao'
